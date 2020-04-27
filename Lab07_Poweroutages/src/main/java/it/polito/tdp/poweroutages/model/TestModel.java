@@ -10,6 +10,8 @@ public class TestModel {
 		Model model = new Model();
 		List<Nerc> l=new ArrayList<>(model.getNercList());
 		System.out.println(l);
+		
+		
 
 	}
 
